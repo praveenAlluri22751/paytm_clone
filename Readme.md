@@ -38,8 +38,7 @@
 
 ![tech](https://img.shields.io/badge/About%20project-23D90007?style=for-the-badge&logoColor=white)
 <p>
-This is a business model website for cryptocurrency.
-<br> I almost replicated it like an original website, except the background images still work in that position. Meanwhile, why don’t guys check this code? It will be much apricated.
+I almost replicated it like an original website, except for some CSS animations. This I designed using Tailwind CSS entirely. It's a learning curve on container customization, prefix breakpoints, and flex/grid usage. It is relatively easy compared to traditional CSS or bootstrap.
 </p>
 
 Stay peace :lotus_position:
